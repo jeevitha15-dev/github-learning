@@ -9,3 +9,7 @@ This repository is created to learn Git and GitHub.
 - Version control
 - Git commands
 - Working with VS Code
+
+## My Goal
+
+I am learning Git and GitHub to build my developer portfolio.
