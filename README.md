@@ -13,3 +13,7 @@ This repository is created to learn Git and GitHub.
 ## My Goal
 
 I am learning Git and GitHub to build my developer portfolio.
+
+## Branch Practice
+
+I am learning how Git branches work.
